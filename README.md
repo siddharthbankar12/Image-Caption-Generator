@@ -1,3 +1,1 @@
 # Image-Caption-Generator
-
-abcd
